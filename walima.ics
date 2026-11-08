@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Walima Invitation//Abdul Wassay and Warisha//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:walima-abdulwassay-warisha-20261213@invitation
+DTSTAMP:20261108T000000Z
+DTSTART:20261213T160000Z
+DTEND:20261213T190000Z
+SUMMARY:Walima of Abdul Wassay & Warisha
+LOCATION:Karsaz Service Road\, Karachi
+DESCRIPTION:Gathering 9:00 pm · Dinner 10:00 pm\nHosted by Muhammad Sulieman & Mansha Sulieman. In Sha Allah.
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Walima tonight at 9:00 pm
+END:VALARM
+END:VEVENT
+END:VCALENDAR
